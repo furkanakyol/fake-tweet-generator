@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "fake tweet gen",
+  "name": "Create fake tweet",
   "icons": [
     {
       "src": "favicon.ico",

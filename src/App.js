@@ -119,7 +119,7 @@ function App() {
         </li>
         <li>
           <label>Doğrulanmış hesap</label>
-          <select id="verified" //defaultValue={IsVerified == true && 1 || IsVerified == "" && 0} 
+          <select id="verified" defaultValue="" 
             onChange={e =>setIsVerified(e.target.value)} value={IsVerified} >
             <option value={true}>evet</option>
             <option value="">hayır</option>
